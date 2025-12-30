@@ -1,1 +1,4 @@
-<h1 style="color:`#0969DA`">Projeto DevClub Store</h1>
+<h1>Projeto DevClub Store</h1>
+<br>
+<br>
+<img src="">
