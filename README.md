@@ -1,6 +1,7 @@
 <h1>Projeto DevClub Store <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e969418c-8389-48c0-9d86-c0d37a581a28" /></h1>
 <br>
 <br>
+<p>O projeto tem como propósito apresentar um modelo de uma loja de produtos digitais :computer: :headphones:</p>
 <h2>Demonstração das Funcionalidades :clapper: </h2>
 <video src="https://github.com/user-attachments/assets/e495d219-586d-4f63-9f73-0787646ba25c" controls></video>
 <h2>Tecnologias Utilizadas :v:</h2>
